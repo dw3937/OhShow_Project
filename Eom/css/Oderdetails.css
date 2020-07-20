@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+div .container {
+	width: 100px;
+	margin: 10px;
+	display: inline-block;
+}
+.page-header {
+    border-bottom: none;
+}
+
+.sch_last strong {
+    display: inline-block;
+    width: 70px;
+}
+
+.sch_last .frm_input {
+    height: 30px;
+    border: 1px solid #dcdcdc;
+    padding: 0 5px;
+}
+
+.sch_last .frm_input {
+    height: 30px;
+    border: 1px solid #dcdcdc;
+    padding: 0 5px;
+}
+
+.sch_last button {
+    height: 30px;
+    padding: 0 5px;
+    border: 0;
+    background: #9eacc6;
+    color: #fff;
+}
+
+.sch_last .btn_submit {
+   height: 30px;
+    padding: 0 5px;
+    border: 0;
+    background: #9eacc6;
+    color: #fff;
+}
+
+#th_head {
+   background: #6f809a;
+    color: #fff;
+    border: 1px solid #60718b;
+    font-weight: normal;
+    text-align: center;
+    padding: 8px 5px;
+    font-size: 0.92em;
+}
+
+
